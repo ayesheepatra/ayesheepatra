@@ -12,6 +12,7 @@ I have served as a Data Engineer in an MNC, spearheading end-to-end projects. I 
 ## Research Focus On:
 
 > NLP        > Transformers        > Information Retrieval        > RAG
+
 > Data Mining        > ETL Designing        > Time Series
 
 ## Skills:
