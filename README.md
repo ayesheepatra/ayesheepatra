@@ -11,7 +11,7 @@ I have served as a Data Engineer in an MNC, spearheading end-to-end projects. I 
 
 ## Skills:
 
-* Cloud : AWS (Glue, EMR, EC2, Kinesis), Azure (DataFactory, Cosmos), GCP (Composer, Looker, BigQuery, Vertex AI, Kubeflow, Cloud Build, Cloud Shell), Databricks
+* Cloud : AWS (Glue, EMR, EC2, Kinesis, S3), Azure (DataFactory, Cosmos), GCP (Composer, Looker, BigQuery, Vertex AI, Kubeflow, Cloud Build, Cloud Shell), Databricks
 
 * Languages : Python, SQL, R, Matlab, Powershell script, Verilog
 
@@ -23,7 +23,7 @@ I have served as a Data Engineer in an MNC, spearheading end-to-end projects. I 
 
 * Databases: Postgres, MySQL, Aurora, RDS, BigTable, MongoDB, DynamoDB, InfluxDB
 
-* Other Tools: CI/CD, Docker, Terraform, Agile (Scrum / Kanban), Git, DevOps, Jenkins, JIRA, Cortex, UiPath, Streamlit
+* Other Tools: Docker, Kanban, Git, Jenkins, JIRA, Cortex, UiPath, Streamlit
 
 ## Education:
 
