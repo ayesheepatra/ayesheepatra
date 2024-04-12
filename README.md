@@ -9,6 +9,11 @@ I am a final year Data science grad at Unversity at Buffalo, passionate about th
 
 I have served as a Data Engineer in an MNC, spearheading end-to-end projects. I engaged in requirement gathering from clients in various sectors like Telecom and Banking, designing ETL pipelines for 15+ applications. Utilizing SQL and Python, I transformed data, developed visualizations, and crafted machine learning models to extract actionable insights.
 
+## Research Focus On:
+
+> NLP        > Transformers        > Information Retrieval        > RAG
+> Data Mining        > ETL Designing        > Time Series
+
 ## Skills:
 
 * Cloud : AWS (Glue, EMR, EC2, Kinesis, S3), Azure (DataFactory, Cosmos), GCP (Composer, Looker, BigQuery, Vertex AI, Kubeflow, Cloud Build, Cloud Shell), Databricks
