@@ -28,10 +28,11 @@ I have served as a Data Engineer in an MNC, spearheading end-to-end projects. I 
 ## Education:
 
 * Master of Science in Data Science - University at Buffalo -- SUNY
-GPA - 3.7 / 4.0
+
+    GPA - 3.7 / 4.0
 
 * Bachelor of Technology in Electronics and Instrumentation Engineering - Bangalore Institute of Technology (BIT)
 
-CGPA - 7.8 / 10.0
+    CGPA - 7.8 / 10.0
 
 
